@@ -13,3 +13,4 @@ echo bye
 
 echo -e "hai1/nbye2"
 
+echo -e "hai1\nbye2"
