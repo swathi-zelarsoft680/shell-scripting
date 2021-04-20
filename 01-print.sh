@@ -31,7 +31,9 @@ echo -e "hai1\nbye2"
 
 # syntax: echo -e "\e[COLmMESSAGE"
 
-echo -e "\e[31mwelocme to devops training"
+echo -e "\e[31mwelocme to devops training\e[0m"
 echo "gudevng"
+
+#disable color code -0
 
 
